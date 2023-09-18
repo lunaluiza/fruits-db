@@ -1,11 +1,11 @@
-ID,Fruit Name
-0,Apple
-1,Banana
-2,Grape
-3,Jabuticaba
-4,Lemon
-5,Orange
-6,Pear
-7,Strawberry
-8,Tangerine
-9,Tomato
+ID,Fruit Name,Size
+0,Apple,6016x4512
+1,Banana,6016x4512
+2,Grape,6016x4512
+3,Jabuticaba,6016x4512
+4,Lemon,6016x4512
+5,Orange,6016x4512
+6,Pear,6016x4512
+7,Strawberry,6016x4512
+8,Tangerine,6016x4512
+9,Tomato,6016x4512
