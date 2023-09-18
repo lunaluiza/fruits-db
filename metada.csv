@@ -1,11 +1,11 @@
-ID,Fruit Name,Size
-0,Apple,6016x4512
-1,Banana,6016x4512
-2,Grape,6016x4512
-3,Jabuticaba,6016x4512
-4,Lemon,6016x4512
-5,Orange,6016x4512
-6,Pear,6016x4512
-7,Strawberry,6016x4512
-8,Tangerine,6016x4512
-9,Tomato,6016x4512
+ID,Fruit Name,Size,Backgroud
+0,Apple,6016x4512,Black/White
+1,Banana,6016x4512,Black/White
+2,Grape,6016x4512,Black/White
+3,Jabuticaba,6016x4512,Black/White
+4,Lemon,6016x4512,Black/White
+5,Orange,6016x4512,Black/White
+6,Pear,6016x4512,Black/White
+7,Strawberry,6016x4512,Black/White
+8,Tangerine,6016x4512,Black/White
+9,Tomato,6016x4512,Black/White
